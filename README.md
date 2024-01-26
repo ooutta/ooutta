@@ -18,13 +18,14 @@
 <br>
 <br>
 
+<!--
 **My GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=ooutta&show_icons=true?username=ooutta&count_private=true)
 
 
 
-<!--
+
 **ooutta/ooutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
